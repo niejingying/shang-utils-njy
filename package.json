@@ -1,0 +1,19 @@
+{
+  "name": "shang-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niejingying/shang-utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niejingying/shang-utils/issues"
+  },
+  "homepage": "https://github.com/niejingying/shang-utils#readme"
+}
